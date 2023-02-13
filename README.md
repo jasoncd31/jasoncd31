@@ -1,7 +1,12 @@
-### Hi there, the name is Jason! 👋
+### Hello world, the name is Jason! 👋
+
+I am currently an undergraduate student at Loyola Marymount University! I am passionate about frontend development and game design/development.
+
+***
 
 ![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasoncd31&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasoncd31)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **jasoncd31/jasoncd31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
