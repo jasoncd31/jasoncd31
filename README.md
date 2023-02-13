@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, the name is Jason! 👋
+
+![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasoncd31&show_icons=true&theme=radical)
 
 <!--
 **jasoncd31/jasoncd31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
