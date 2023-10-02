@@ -1,6 +1,6 @@
 ## Hello world, the name is Jason! 👋
 
-I am currently an undergraduate student at Loyola Marymount University! I am passionate about frontend development and game design/development.
+I am currently an Graduate student at Loyola Marymount University! I am passionate about frontend development and game design/development.
 
 Check out some interesting stuff I've made!
 
