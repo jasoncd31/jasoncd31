@@ -8,6 +8,9 @@ Check out some interesting stuff I've made!
 
 A fun programming language made for a compiler's class (CMSI3802) during my undergrad. This was a team project made with my friends. Check it out [here](https://github.com/jasoncd31/PiratesCode)!
 
+### Fragment
+
+Fragment is my undergraduate senior capstone project. It was made in collaboration with LMU's Animation department. It was a lot of fun to make and you can check it out [here](https://github.com/jasoncd31/Fragment-Game)!
 
 ***
 ## 📈 GitHub Stats
