@@ -12,6 +12,11 @@ A fun programming language made for a compiler's class (CMSI3802) during my unde
 
 Fragment is my undergraduate senior capstone project. It was made in collaboration with LMU's Animation department. It was a lot of fun to make and you can check it out [here](https://github.com/jasoncd31/Fragment-Game)!
 
+### Freeway Farmers
+
+A fun final for my Adv. Animation Class where we learned how to use Unreal Engine 5. It was inspirted by another game but I'll let you guess which one. Check it out [here](https://github.com/jasoncd31/Freeway-Farmers)!
+
+
 ***
 ## 📈 GitHub Stats
 
