@@ -16,16 +16,6 @@ Fragment is my undergraduate senior capstone project. It was made in collaborati
 
 A fun final for my Adv. Animation Class where we learned how to use Unreal Engine 5. It was inspirted by another game but I'll let you guess which one. Check it out [here](https://github.com/jasoncd31/Freeway-Farmers)!
 
-
-***
-## 📈 GitHub Stats
-
-<a href="https://github.com/jasoncd31?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasoncd31&theme=radical&langs_count=3&hide=html" />
-</a>
-<a href="https://github.com/jasoncd31/jasoncd31">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jasoncd31&show_icons=true&line_height=27&count_private=true&theme=radical" alt="Jasons's GitHub Stats" />
-</a>
 <!--
 **jasoncd31/jasoncd31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
